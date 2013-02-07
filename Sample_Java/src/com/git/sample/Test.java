@@ -7,7 +7,7 @@ public class Test {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Setting up a sample project to configure Eclipse with GitHUB");
+		System.out.println("Setting up a sample project to configure Eclipse with GitHUB-slight data change");
 	}
 
 }
